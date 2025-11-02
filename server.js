@@ -19,7 +19,7 @@ const SALT_ROUNDS = 10;
 // ------------------------------------
 
 const allowedOrigins = [
-    'https://proj-anahnaugera.vercel.app',
+    'https://projeto-anhanguera.vercel.app',
     'http://localhost:4200',
     'https://serverlearnon.onrender.com'
 ];
